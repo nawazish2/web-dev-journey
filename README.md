@@ -56,7 +56,7 @@ Currently enrolled in a **Web Dev Cohort**, solving assignments, building projec
 ## 🏗️ Projects
 
 ### 1. Cursor Clone — Landing Page
-> A pixel-perfect clone of the [Cursor](https://cursor.com) landing page
+> A pixel-perfect clone of the [Cursor]([text](https://cursor-landing-neon.vercel.app/)) landing page
 
 - **Stack:** HTML, CSS
 - **What I learned:** Layout structure, hero sections, responsive design
