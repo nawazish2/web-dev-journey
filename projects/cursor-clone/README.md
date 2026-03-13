@@ -2,6 +2,10 @@
 
 This project recreates the current Cursor homepage in a desktop-first static format using only HTML and CSS.
 
+## Live demo
+
+- https://cursor-landing-neon.vercel.app/
+
 ## Sections recreated
 
 - Header with product/resources navigation and CTAs

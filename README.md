@@ -61,7 +61,7 @@ Currently enrolled in a **Web Dev Cohort**, solving assignments, building projec
 - **Stack:** HTML, CSS
 - **What I learned:** Layout structure, hero sections, responsive design
 - 📁 [`/projects/cursor-clone`](./projects/cursor-clone)
-- 🔗 [Live Demo](https://your-username.github.io/repo/projects/cursor-clone) 
+- 🔗 [Live Demo](https://cursor-landing-neon.vercel.app/)
 
 ---
 
