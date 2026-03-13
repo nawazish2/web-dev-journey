@@ -46,7 +46,7 @@ Currently enrolled in a **Web Dev Cohort**, solving assignments, building projec
 |-------|-------|--------|------|
 | 0 | Networking Fundamentals | ✅ Done | [Read →](https://nawazish.hashnode.dev/series/networking-for-developers) |
 | 1 | HTML & CSS | ✅ Done | [Read →](https://nawazish.hashnode.dev/series/html-css-mastery) |
-| 2 | JavaScript | ✅ Done | [Read →](https://nawazishkhan.hashnode.dev) |
+| 2 | JavaScript | ✅ Done | [Read →](https://nawazish.hashnode.dev/series/javascript-fundamentals-series) |
 | 3 | TypeScript | 🔄 In Progress | Coming soon |
 | 4 | React | ⏳ Upcoming | — |
 | 5 | Next.js | ⏳ Upcoming | — |
